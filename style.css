@@ -59,7 +59,7 @@ section {
 .livro {
    
     margin-top: 30px;
-    background:black url('imagens/background002.jpg') center center no-repeat fixed;
+    background:black url('imagens/background002.jpg') right center no-repeat fixed;
     background-size: cover;
     padding: 10px;
     
